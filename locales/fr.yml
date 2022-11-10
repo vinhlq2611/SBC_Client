@@ -1,0 +1,40 @@
+auth:
+  email: Adresse e-mail
+  email-placeholder: Adresse e-mail ou numéro de téléphone
+  forgot: Mot de passe oublié ?
+  login: Se connecter
+  logout: Se déconnecter
+  no-account: Vous n'avez pas de compte ?
+  password: Mot de passe
+  register: S'inscrire
+  register-fail: L'inscription a échoué
+  register-success: Vous avez été inscrit avec succès
+  remember: Se souvenir de moi
+  reset: Réinitialiser le mot de passe
+  reset-fail: La réinitialisation du mot de passe a échoué
+  reset-link: Lien de réinitialisation du mot de passe envoyé
+  reset-sent: Lien de réinitialisation du mot de passe envoyé à votre adresse e-mail
+  reset-success: Le mot de passe a été réinitialisé avec succès
+  username: Nom d'utilisateur
+button:
+  about: À propos
+  back: Retour
+  go: Essayer
+  home: Accueil
+  toggle_dark: Basculer en mode sombre
+  toggle_langs: Changer de langue
+intro:
+  aka: Aussi connu sous le nom de
+  desc: Exemple d'application Vite
+  dynamic-route: Démo de route dynamique
+  hi: Salut, {name}!
+  whats-your-name: Comment t'appelles-tu ?
+not-found: Page non trouvée
+sidebar:
+  calendar: Calendrier
+  components: Composants
+  dashboard: Tableau de bord
+  home: Accueil
+  projects: Projets
+  reports: Rapports
+  team: Équipe
